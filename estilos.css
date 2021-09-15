@@ -1,0 +1,102 @@
+#contenedorbig {
+    background-color:#44b98c;
+    height: 1600px;
+}
+
+/* inicio Header*/
+#cabecera{
+    
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+#marca{
+   background-color: #37181d;
+   height: 100px;
+   
+   
+}
+
+#botonera{
+    
+    background-image: url(imagenes/13.jpg);
+    
+    
+}
+
+#letras{
+    color: #3f3939;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.color:hover{
+    background-color: #19962d;
+}
+
+#redes{
+    background-color: #37181d;
+    height: 100px;
+}
+
+/*  Fin Header*/
+
+
+/* seccion inicio */
+#inicio{
+    background-color: rgb(247, 240, 233);
+    
+    
+}
+
+
+/*  fin seccion inicio  */
+
+
+
+/* seccion productos */
+#productos{
+    background-color: rgb(177, 173, 189);
+   
+}
+
+#product1{
+    background-image: linear-gradient(60deg, #64b3f4 0%, #c2e59c 100%);
+   
+}
+
+.txt{
+    color: rgb(36, 150, 14);
+}
+
+/*  fin seccion productos  */
+
+
+
+/* seccion contactos */
+#contacto{
+   
+    background-image: linear-gradient(to top, #6a85b6 0%, #bac8e0 100%);
+     
+}
+#coll{
+    color: #fff;
+    
+}
+
+
+/*  fin seccion contacto  */
+
+
+
+
+#pie{
+    
+    background-image: linear-gradient(45deg, #8baaaa 0%, #ae8b9c 100%);
+    height: 100px;
+}
+
+.jake{
+    color: #fff;
+}
